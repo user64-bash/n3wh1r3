@@ -1,8 +1,8 @@
 # n3wh1r3
 
 - 👋 Hi, I’m @user64-bash
-- 👀 I’m interested in ... staying a step ahead.
-- 🌱 I’m currently learning ... cloud computing/netork deployment w/ GCP & Elastic
+- 👀 I’m interested in ... staying a step ahead
+- 🌱 I’m currently learning ... cloud computing/network deployment w/ GCP & Elastic/Sec
 - 💞️ I’m looking to collaborate on ... anything interesting
 - 📫 How to reach me ... search!
 
